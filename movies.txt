@@ -1,0 +1,999 @@
+1. The Godfather
+(1972, Francis Ford Coppola) (Marlon Brando, Al Pacino, James Caan, Robert Duvall, Diane Keaton)
+2. Citizen Kane
+(1941, Orson Welles) (Orson Welles, Joseph Cotton, Agnes Moorehead, Dorothy Comingore)
+3. 2001: A Space Odyssey
+(1968, Stanley Kubrick) (Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter)
+4. Seven Samurai
+(1954, Akira Kurosawa) (Toshiro Mifune, Takashi Shimura, Daisuke Kato, Isao Kimura, Minoru Chiaki, Seiji Miyaguchi, Yoshio Inaba)
+5. Psycho
+(1960, Alfred Hitchcock) (Anthony Perkins, Janet Leigh, Vera Miles, Martin Balsam)
+6. Star Wars: Episode IV - A New Hope
+(1977, George Lucas) (Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing)
+7. Battleship Potemkin
+(1925, Sergei M. Eisenstein) (Aleksandr Antonov, Vladimir Barsky, Grigori Aleksandrov)
+8. The Wizard of Oz
+(1939, Victor Fleming) (Judy Garland, Ray Bolger, Bert Lahr, Jack Haley, Frank Morgan)
+9. Snow White and the Seven Dwarfs
+(1937, David Hand et al.) (voices - Adriana Caselotti, Lucille La Verne, Harry Stockwell, Eddie Collins)
+10. The Birth of a Nation
+(1915, D. W. Griffith) (Lillian Gish, Mae Marsh, Henry B. Walthall, Miriam Cooper)
+11. Casablanca
+(1942, Michael Curtiz) (Humphrey Bogart, Ingrid Bergman, Peter Lorre, Claude Rains)
+12. Vertigo
+(1958, Alfred Hitchcock) (James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore)
+13. Gone with the Wind
+(1939, Victor Fleming) (Clark Gable, Vivien Leigh, Leslie Howard, Olivia de Havilland)
+14. Jaws
+(1975, Steven Spielberg) (Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary)
+15. A Trip to the Moon
+(1902, Georges Méliès) (Georges Méliès, Bleuette Bernon, François Lallement, Henri Delannoy)
+16. Singin' in the Rain
+(1952, Stanley Donen & Gene Kelly) (Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen)
+17. Apocalypse Now
+(1979, Francis Ford Coppola) (Martin Sheen, Robert Duvall, Marlon Brando)
+18. Lawrence of Arabia
+(1962, David Lean) (Peter O'Toole, Alec Guinness, Anthony Quinn, Omar Sharif)
+19. Pulp Fiction
+(1994, Quentin Tarantino) (Samuel L. Jackson, John Travolta, Uma Thurman, Bruce Willis)
+20. The Godfather Part II
+(1974, Francis Ford Coppola) (Al Pacino, Robert De Niro, John Cazale)
+21. Metropolis
+(1927, Fritz Lang) (Alfred Abel, Brigitte Helm, Gustav Fröhlich, Rudolf Klein-Rogge)
+22. City Lights
+(1931, Charles Chaplin) (Charles Chaplin, Virginia Cherrill, Florence Lee)
+23. Breathless
+(1960, Jean-Luc Godard) (Jean-Paul Belmondo, Jean Seberg, Jean-Luc Godard)
+24. Bicycle Thieves
+(1948, Vittorio De Sica) (Lamberto Maggiorani, Enzo Staiola, Lianella Carell)
+25. Taxi Driver
+(1976, Martin Scorsese) (Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks)
+26. M
+(1931, Fritz Lang) (Peter Lorre, Otto Wernicke, Gustaf Gründgens)
+27. Sunrise: A Song of Two Humans
+(1927, F. W. Murnau) (Janet Gaynor, George O'Brien, Margaret Livingston)
+28. Rear Window
+(1954, Alfred Hitchcock) (James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr)
+29. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+(1964, Stanley Kubrick) (Peter Sellers, George C. Scott, Sterling Hayden, Slim Pickens)
+30. Rashômon
+(1950, Akira Kurosawa) (Toshiro Mifune, Machiko Kyo, Masayuki Mori, Takashi Shimura)
+31. Raiders of the Lost Ark
+(1981, Steven Spielberg) (Harrison Ford, Paul Freeman, Karen Allen, Denholm Elliott, John Rhys-Davies)
+32. The Good, the Bad and the Ugly
+(1966, Sergio Leone) (Clint Eastwood, Eli Wallach, Lee Van Cleef)
+33. Modern Times
+(1936, Charles Chaplin) (Charles Chaplin, Paulette Goddard, Henry Bergman)
+34. The Passion of Joan of Arc
+(1928, Carl Theodor Dreyer) (Renée Jeanne Falconetti, Eugène Silvain, André Berley, Maurice Schutz)
+35. The Searchers
+(1956, John Ford) (John Wayne, Jeffrey Hunter, Vera Miles, Natalie Wood, Ward Bond, Ken Curtis)
+36. 8½
+(1963, Federico Fellini) (Marcello Mastroianni, Claudia Cardinale, Anouk Aimée)
+37. 12 Angry Men
+(1957, Sidney Lumet) (Henry Fonda, Lee J. Cobb, Ed Begley, E.G. Marshall, Jack Klugman, Martin Balsam)
+38. It's a Wonderful Life
+(1946, Frank Capra) (James Stewart, Donna Reed, Lionel Barrymore)
+39. Stagecoach
+(1939, John Ford) (Claire Trevor, John Wayne, Thomas Mitchell)
+40. Star Wars: Episode V - The Empire Strikes Back
+(1980, Irvin Kershner) (Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Alec Guinness)
+41. Some Like It Hot
+(1959, Billy Wilder) (Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft, Pat O'Brien, Joe E. Brown)
+42. North by Northwest
+(1959, Alfred Hitchcock) (Cary Grant, Eva Marie Saint, James Mason)
+43. Toy Story
+(1995, John Lasseter) (voices - Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Annie Potts, Wallace Shawn)
+44. The Exorcist
+(1973, William Friedkin) (Ellen Burstyn, Max von Sydow, Linda Blair)
+45. Schindler's List
+(1993, Steven Spielberg) (Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall)
+46. Alien
+(1979, Ridley Scott) (Sigouney Weaver, Tom Skerritt, Veronica Cartwright)
+47. The Gold Rush
+(1925, Charles Chaplin) (Charles Chaplin, Georgia Hale, Mack Swain)
+48. Intolerance
+(1916, D. W. Griffith) (Vera Lewis, Ralph Lewis, Mae Marsh, Robert Harron, Constance Talmadge, Lillian Gish)
+49. E.T. the Extra-Terrestrial
+(1982, Steven Spielberg) (Dee Wallace, Peter Coyote, Henry Thomas)
+50. The Graduate
+(1967, Mike Nichols) (Anne Bancroft, Dustin Hoffman, Katharine Ross)
+51. The 400 Blows
+(1959, François Truffaut) (Jean-Pierre Léaud, Albert Rémy, Claire Maurier)
+52. Tokyo Story
+(1953, Yasujirô Ozu) (Chishu Ryu, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura)
+53. Bonnie and Clyde
+(1967, Arthur Penn) (Warren Beatty, Faye Dunaway, Michael J. Pollard)
+54. The Rules of the Game
+(1939, Jean Renoir) (Nora Gregor, Roland Toutain, Jean Renoir)
+55. The Terminator
+(1984, James Cameron) (Linda Hamilton, Arnold Schwarzenegger)
+56. GoodFellas
+(1990, Martin Scorsese) (Ray Liotta, Joe Pesci, Robert De Niro)
+57. Sunset Boulevard
+(1950, Billy Wilder) (William Holden, Gloria Swanson, Erich von Stroheim)
+58. Blade Runner
+(1982, Ridley Scott) (Harrison Ford, Rutger Hauer, Sean Young)
+59. Raging Bull
+(1980, Martin Scorsese) (Robert De Niro, Cathy Moriarty, Joe Pesci)
+60. A Clockwork Orange
+(1971, Stanley Kubrick) (Malcolm McDowell, Patrick Magee, Adrienne Corri)
+61. Goldfinger
+(1964, Guy Hamilton) (Sean Connery, Honor Blackman, Gert Fröbe)
+62. The Third Man
+(1949, Carol Reed) (Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard)
+63. One Flew over the Cuckoo's Nest
+(1975, Milos Forman) (Jack Nicholson, Louise Fletcher, Will Sampson)
+64. The Kid
+(1921, Charles Chaplin) (Charles Chaplin, Jackie Coogan, Edna Purviance)
+65. Pather Panchali
+(1955, Satyajit Ray) (Subir Banerjee, Kanu Banerjee, Karuna Banerjee)
+66. Do the Right Thing
+(1989, Spike Lee) (Spike Lee, Danny Aiello, John Turturro)
+67. Lord of the Rings: The Return of the King
+(2003, Peter Jackson) (Elijah Wood, Sean Astin, Viggo Mortensen, Ian McKellen)
+68. Spirited Away
+(2001, Hayao Miyazaki) (Rumi Hiiragi, Miyu Irino)
+69. Double Indemnity
+(1944, Billy Wilder) (Fred MacMurray, Barbara Stanwyck, Edward G. Robinson)
+70. Once Upon a Time in the West
+(1968, Sergio Leone) (Henry Fonda, Charles Bronson, Claudia Cardinale)
+71. King Kong
+(1933, Merian C. Cooper & Ernest B. Schoedsack) (Fay Wray, Robert Armstrong, Bruce Cabot)
+72. Persona
+(1966, Ingmar Bergman) (Bibi Andersson, Liv Ullmann, Margaretha Krook)
+73. La dolce vita
+(1960, Federico Fellini) (Marcello Mastroianni, Anita Ekberg, Anouk Aimée)
+74. Rome, Open City
+(1945, Roberto Rossellini) (Aldo Fabrizi, Anna Magnani, Marcello Pagliero)
+75. The Matrix
+(1999, Lana & Lilly Wachowski) (Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss)
+76. On the Waterfront
+(1954, Elia Kazan) (Marlon Brando, Karl Malden, Rod Steiger)
+77. Chinatown
+(1974, Roman Polanski) (Jack Nicholson, Faye Dunaway, John Huston)
+78. The Silence of the Lambs
+(1991, Jonathan Demme) (Anthony Hopkins, Jodie Foster, Scott Glenn, Ted Levine)
+79. The Deer Hunter
+(1978, Michael Cimino) (Robert De Niro, Meryl Streep, Christopher Walken)
+80. The Great Dictator
+(1940, Charles Chaplin) (Charles Chaplin, Paulette Goddard, Jack Oakie)
+81. It Happened One Night
+(1934, Frank Capra) (Clark Gable, Claudette Colbert, Walter Connolly)
+82. Lord of the Rings: The Fellowship of the Rings
+(2001, Peter Jackson) (Elijah Wood, Ian McKellen)
+83. Back to the Future
+(1985, Robert Zemeckis) (Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover)
+84. Night of the Living Dead
+(1968, George A. Romero) (Judith O'Dea, Duane Jones, Marilyn Eastman)
+85. The Bridge on the River Kwai
+(1957, David Lean) (Alec Guinness, William Holden, Jack Hawkins, Sessue Hayakawa)
+86. The Cabinet of Dr. Caligari
+(1920, Robert Wiene) (Werner Krauss, Conrad Veidt, Friedrich Fehér)
+87. The Maltese Falcon
+(1941, John Huston) (Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre)
+88. Fantasia
+(1940, Ben Sharpsteen et al.) (Leopold Stokowski, Deems Taylor)
+89. Midnight Cowboy
+(1969, John Schlesinger) (Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver)
+90. Ben-Hur
+(1959, William Wyler) (Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd)
+91. The Seventh Seal
+(1957, Ingmar Bergman) (Max von Sydow, Gunnar Björnstrand, Bengt Ekerot)
+92. Man with a Movie Camera
+(1929, Dziga Vertov) (Documentary)
+93. The Dark Knight
+(2008, Christopher Nolan) (Christian Bale, Heath Ledger, Michael Caine, Maggie Gyllenhaal)
+94. Rocky
+(1976, John G. Avildsen) (Sylvester Stallone, Talia Shire, Burgess Meredith)
+95. Halloween
+(1978, John Carpenter) (Donald Pleasence, Jamie Lee Curtis, Nick Castle)
+96. To Kill a Mockingbird
+(1962, Robert Mulligan) (Gregory Peck, Mary Badham, Phillip Alford)
+97. Annie Hall
+(1977, Woody Allen) (Diane Keaton, Woody Allen, Tony Roberts, Carol Kane)
+98. The Apartment
+(1960, Billy Wilder) (Jack Lemmon, Shirley MacLaine, Fred MacMurray)
+99. The Shawshank Redemption
+(1994, Frank Darabont) (Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler)
+100. Forrest Gump
+(1994, Robert Zemeckis) (Tom Hanks, Gary Sinise, Robin Wright, Sally Field)
+101. Frankenstein
+(1931, James Whale) (Colin Clive, Mae Clarke, John Boles, Boris Karloff)
+102. All About Eve
+(1950, Joseph L. Mankiewicz) (Bette Davis, Anne Baxter, George Sanders, Celeste Holm)
+103. Die Hard
+(1988, John McTiernan) (Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson)
+104. The Grand Illusion
+(1937, Jean Renoir) (Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim)
+105. My Neighbour Totoro
+(1988, Hayao Miyazaki) (Noriko Hidaka, Chika Sakamoto, Hitoshi Takagi)
+106. Nosferatu
+(1922, F.W. Murnau) (Max Schreck, Gustav von Wangenheim, Greta Schröder)
+107. Mulholland Dr.
+(2001, David Lynch) (Naomi Watts, Laura Harring, Justin Theroux, Jeanne Bates)
+108. Blue Velvet
+(1986, David Lynch) (Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern)
+109. High Noon
+(1952, Fred Zinnemann) (Gary Cooper, Thomas Mitchell, Lloyd Bridges, Katy Jurado, Grace Kelly)
+110. The Sound of Music
+(1965, Robert Wise) (Julie Andrews, Christopher Plummer, Richard Haydn)
+111. The Treasure of the Sierra Madre
+(1948, John Huston) (Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett)
+112. The Best Years of Our Lives
+(1946, William Wyler) (Myrna Loy, Fredric March, Dana Andrews, Teresa Wright, Virginia Mayo, Harold Russell)
+113. The General
+(1926, Buster Keaton & Clyde Bruckman) (Buster Keaton, Marion Mack)
+114. West Side Story
+(1961, Robert Wise & Jerome Robbins) (Natalie Wood, Richard Beymer, Rita Moreno)
+115. Touch of Evil
+(1958, Orson Welles) (Charlton Heston, Janet Leigh, Orson Welles)
+116. A Streetcar Named Desire
+(1951, Elia Kazan) (Vivien Leigh, Marlon Brando, Kim Hunter, Karl Malden)
+117. Saving Private Ryan
+(1998, Steven Spielberg) (Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns, Paul Giamatti)
+118. Titanic
+(1997, James Cameron) (Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Bill Paxton)
+119. Un chien andalou
+(1929, Luis Buñuel) (Pierre Batcheff, Simone Mareuil, Luis Buñuel, Salvador Dalí)
+120. Children of Paradise
+(1945, Marcel Carné) (Arletty, Jean-Louis Barrault, Pierre Brasseur, Marcel Herrand, Pierre Renoir)
+121. The Wild Bunch
+(1969, Sam Peckinpah) (William Holden, Ernest Borgnine, Robert Ryan)
+122. La strada
+(1954, Federico Fellini) (Giulietta Masina, Anthony Quinn, Richard Basehart)
+123. Close Encounters of the Third Kind
+(1977, Steven Spielberg) (Richard Dreyfuss, Teri Garr, Melinda Dillon)
+124. Parasite
+(2019, Bong Joon-Ho) (Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong)
+125. Jurassic Park
+(1993, Steven Spielberg) (Sam Neil, Laura Dern, Jeff Goldblum, Richard Attenborough)
+126. The Shining
+(1980, Stanley Kubrick) (Jack Nicholson, Shelley Duvall, Scatman Crothers, Danny Lloyd)
+127. Rebel Without a Cause
+(1955, Nicholas Ray) (James Dean, Natalie Wood, Sal Mineo)
+128. Superman
+(1978, Richard Donner) (Christopher Reeve, Gene Hackman)
+129. L'arrivée d'un train en gare de La Ciotat
+(1896, Louis & Auguste Lumière) (Madeleine Koehler, Marcel Koehler, Mrs. Auguste Lumiere, Jeanne-Joséphine Lumière)
+130. Notorious
+(1946, Alfred Hitchcock) (Cary Grant, Ingrid Bergman, Claude Rains)
+131. The French Connection
+(1971, William Friedkin) (Gene Hackman, Roy Scheider, Fernando Rey)
+132. The Texas Chain Saw Massacre
+(1974, Tobe Hooper) (Marilyn Burns, Paul A. Partain, Gunnar Hansen)
+133. Mr. Smith Goes to Washington
+(1939, Frank Capra) (Jean Arthur, James Stewart, Claude Rains, Edward Arnold)
+134. Dr. No
+(1962, Terence Young) (Sean Connery, Ursula Andress, Joseph Wiseman)
+135. Blow-Up
+(1966, Michelangelo Antonioni) (David Hemmings, Vanessa Redgrave, Sarah Miles)
+136. Paths of Glory
+(1957, Stanley Kubrick) (Kirk Douglas, Ralph Meeker, Adolphe Menjou)
+137. Rio Bravo
+(1959, Howard Hawks) (John Wayne, Dean Martin, Ricky Nelson, Angie Dickinson, Walter Brennan)
+138. The Grapes of Wrath
+(1940, John Ford) (Henry Fonda, Jane Darwell, John Carradine)
+139. Fargo
+(1996, Joel & Ethan Coen) (Frances McDormand, William H. Macy, Steve Buscemi)
+140. Terminator 2: Judgment Day
+(1991, James Cameron) (Arnold Schwarzenegger, Linda Hamilton, Edward Furlong)
+141. Unforgiven
+(1992, Clint Eastwood) (Clint Eastwood, Gene Hackman)
+142. Rosemary's Baby
+(1968, Roman Polanski) (Mia Farrow, John Cassavetes, Ruth Gordon)
+143. Avatar
+(2009, James Cameron) (Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Michelle Rodriguez)
+144. Aliens
+(1986, James Cameron) (Sigourney Weaver, Michael Biehn, Carrie Henn)
+145. Sherlock Jr.
+(1924, Buster Keaton) (Buster Keaton, Kathryn McGuire, Joe Keaton)
+146. Workers Leaving the Lumière Factory
+(1895, Louis Lumière)
+147. Fight Club
+(1999, David Fincher) (Brad Pitt, Edward Norton, Meat Loaf, Helena Bonham Carter)
+148. There Will Be Blood
+(2007, Paul Thomas Anderson) (Daniel Day-Lewis, Paul Dano)
+149. Eternal Sunshine of the Spotless Mind
+(2004, Michael Gondry) (Jim Carrey, Kate Winslet)
+150. Duck Soup
+(1933, Leo McCarey) (The Marx Brothers, Margaret Dumont, Louis Calhern)
+151. Amadeus
+(1984, Milos Forman) (Tom Hulce, F. Murray Abraham)
+152. The Birds
+(1963, Alfred Hitchcock) (Tippi Hedren, Rod Taylor, Jessica Tandy)
+153. All Quiet on the Western Front
+(1930, Lewis Milestone) (Lew Ayres, Louis Wolheim, John Wray)
+154. The Night of the Hunter
+(1955, Charles Laughton) (Robert Mitchum, Shelley Winters, Lillian Gish, Billy Chapin)
+155. Safety Last!
+(1923, Fred C. Newmeyer & Sam Taylor) (Harold Lloyd, Mildred Davis)
+156. Nanook of the North
+(1922, Robert J. Flaherty) (Documentary)
+157. Who's Afraid of Virginia Woolf?
+(1966, Mike Nichols) (Elizabeth Taylor, Richard Burton, George Segal, Sandy Dennis)
+158. Scarface
+(1983, Brian De Palma) (Al Pacino, Steven Bauer, Michelle Pfeiffer)
+159. Batman
+(1989, Tim Burton) (Michael Keaton, Jack Nicholson, Kim Basinger)
+160. Reservoir Dogs
+(1992, Quentin Tarantino) (Harvey Keitel, Tim Roth, Steve Buscemi, Michael Madsen, Chris Penn)
+161. Enter the Dragon
+(1973, Robert Clouse) (Bruce Lee, John Saxon, Jim Kelly, Shih Kien, Geoffrey Weeks)
+162. Dawn of the Dead
+(1978, George A. Romero) (David Emge, Ken Foree, Scott Reiniger)
+163. The Red Shoes
+(1948, Michael Powell & Emeric Pressburger) (Anton Walbrook, Marius Goring, Moira Shearer)
+164. Stalker
+(1979, Andrei Tarkovsky) (Alexander Kaidanovsky, Anatoly Solonitsyn, Nikolai Grinko)
+165. Pinocchio
+(1940, Hamilton Luske, Ben Sharpsteen et al.) (voices - Dickie Jones, Cliff Edwards, Christian Rub, Mel Blanc, Don Brodie)
+166. Rebecca
+(1940, Alfred Hitchcock) (Joan Fontaine, Laurence Olivier, Judith Anderson)
+167. Bride of Frankenstein
+(1935, James Whale) (Boris Karloff, Colin Clive, Valerie Hobson, Elsa Lanchester)
+168. Invasion of the Body Snatchers
+(1956, Don Siegel) (Kevin McCarthy, Dana Wynter, Larry Gates)
+169. Wild Strawberries
+(1957, Ingmar Bergman) (Victor Sjöström, Bibi Andersson, Gunnar Björnstrand)
+170. City of God
+(2002, Fernando Meirelles) (Jonathan Haagensen, Alexandre Rodrigues)
+171. Trainspotting
+(1996, Danny Boyle) (Ewan McGregor, Robert Carlyle, Ewen Bremner, Kevin McKidd)
+172. The Lion King
+(1994, Roger Allers & Rob Minkoff) (voices - Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg)
+173. Barry Lyndon
+(1975, Stanley Kubrick) (Ryan O'Neal, Marisa Berenson, Patrick Magee)
+174. Bringing Up Baby
+(1938, Howard Hawks) (Katharine Hepburn, Cary Grant, Charles Ruggles, Barry Fitzgerald)
+175. Aguirre: The Wrath of God
+(1972, Werner Herzog) (Klaus Kinski, Helena Rojo, Ruy Guerra)
+176. Butch Cassidy and the Sundance Kid
+(1969, George Roy Hill) (Paul Newman, Robert Redford, Katharine Ross, Strother Martin, Cloris Leachman)
+177. The Adventures of Robin Hood
+(1938, Michael Curtiz & William Keighley) (Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains)
+178. Monty Python and the Holy Grail
+(1975, Terry Gilliam and Terry Jones) (Graham Chapman, John Cleese, Eric Idle, Michael Palin, Connie Booth)
+179. WALL·E
+(2008, Andrew Stanton) (voices - Ben Burtt, Elissa Knight, Jeff Garlin, Jennifer Hale)
+180. Inception
+(2010, Christopher Nolan) (Leonardo DiCaprio, Ken Watanabe, Joseph Gordon-Levitt)
+181. Godzilla
+(1954, Ishirô Honda) (Akira Takarada, Momoko Kochi, Akihiko Hirata, Takashi Shimura)
+182. Mad Max: Fury Road
+(2015, George Miller) (Tom Hardy, Charlize Theron, Nicholas Hoult)
+183. M*A*S*H
+(1970, Robert Altman) (Donald Sutherland, Elliott Gould, Tom Skerritt)
+184. Mary Poppins
+(1964, Robert Stevenson) (Julie Andrews, Dick Van Dyke, David Tomlinson)
+185. Ikiru
+(1952, Akira Kurosawa) (Takashi Shimura, Haruo Tanaka, Miki Odagiri)
+186. The Social Network
+(2010, David Fincher) (Jesse Eisenberg, Andrew Garfield, Justin Timberlake)
+187. The Big Parade
+(1925, King Vidor) (John Gilbert, Renée Adorée, Hobart Bosworth)
+188. No Country for Old Men
+(2007, Ethan, Joel Coen) (Tommy Lee Jones, Javier Bardem, Josh Brolin)
+189. American Graffiti
+(1973, George Lucas) (Richard Dreyfuss, Ron Howard, Paul Le Mat)
+190. The Jazz Singer
+(1927, Alan Crosland) (Al Jolson, May McAvoy, Warner Oland, Yossele Rosenblatt)
+191. Dracula
+(1931, Tod Browning) (Bela Lugosi, David Manners, Helen Chandler)
+192. His Girl Friday
+(1940, Howard Hawks) (Cary Grant, Rosalind Russell, Ralph Bellamy, Gene Lockhart)
+193. The Philadelphia Story
+(1940, George Cukor) (Cary Grant, Katharine Hepburn, James Stewart)
+194. Ugetsu
+(1953, Kenji Mizoguchi) (Machiko Kyo, Mitsuko Mito, Kinuyo Tanaka)
+195. Roman Holiday
+(1953, William Wyler) (Gregory Peck, Audrey Hepburn, Eddie Albert)
+196. Crouching Tiger, Hidden Dragon
+(2000, Ang Lee) (Chow Yun-Fat, Michelle Yeoh)
+197. A Fistful of Dollars
+(1964, Sergio Leone) (Clint Eastwood, Gian Maria Volonté, Marianne Koch)
+198. A Hard Day's Night
+(1964, Richard Lester) (The Beatles, Wilfrid Brambell, Norman Rossington)
+199. Napoléon
+(1927, Abel Gance) (Albert Dieudonné, Gina Manès, Antonin Artaud, Edmond Van Daële)
+200. Greed
+(1924, Erich von Stroheim) (Gibson Gowland, ZaSu Pitts, Jean Hersholt)
+201. In the Heat of the Night
+(1967, Norman Jewison) (Sidney Poitier, Rod Steiger, Warren Oates)
+202. Easy Rider
+(1969, Dennis Hopper) (Peter Fonda, Dennis Hopper, Jack Nicholson)
+203. The Crowd
+(1928, King Vidor) (James Murray, Eleanor Boardman, Bert Roach)
+204. Steamboat Willie
+(1928, Walt Disney & Ub Iwerks) (voice - Walt Disney)
+205. L'avventura
+(1960, Michaelangelo Antonioni) (Gabriele Ferzetti, Monica Vitti, Lea Massari)
+206. Get Out
+(2017, Jordan Peele) (Daniel Kaluuya, Allison Williams, Bradley Whitford)
+207. Scarface
+(1932, Howard Hawks) (Paul Muni, Ann Dvorak, Osgood Perkins, Karen Morley)
+208. The Avengers
+(2012, Joss Whedon) (Robert Downey Jr., Chris Evans, Mark Ruffalo)
+209. The Battle of Algiers
+(1966, Gillo Pontecorvo) (Jean Martin, Saadi Yacef, Brahim Haggiag)
+210. The Wages of Fear
+(1953, Henri-Georges Clouzot) (Yves Montand, Charles Vanel, Folco Lulli, Peter Van Eyck)
+211. Dirty Harry
+(1971, Don Siegel) (Clint Eastwood, Andy Robinson, Harry Guardino)
+212. Ghostbusters
+(1984, Ivan Reitman) (Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis)
+213. American Beauty
+(1999, Sam Mendes) (Kevin Spacey, Annette Bening, Thora Birch, Allison Janney, Wes Bentley)
+214. The Asphalt Jungle
+(1950, John Huston) (Sterling Hayden, Louis Calhern, Jean Hagen)
+215. Network
+(1976, Sidney Lumet) (Peter Finch, Faye Dunaway, William Holden, Robert Duvall, Ned Beatty)
+216. Breakfast at Tiffany's
+(1961, Blake Edwards) (Audrey Hepburn, George Peppard, Patricia Neal)
+217. Pan's Labyrinth
+(2006, Guillermo del Toro) (Ariadna Gil, Ivana Baquero, Sergi López, Maribel Verdú)
+218. Cabaret
+(1972, Bob Fosse) (Liza Minnelli, Michael York, Joel Grey, Helmut Griem)
+219. Brief Encounter
+(1945, David Lean) (Celia Johnson, Trevor Howard, Stanley Holloway)
+220. Out of the Past
+(1947, Jacques Tourneur) (Robert Mitchum, Jane Greer, Kirk Douglas, Rhonda Fleming)
+221. The Public Enemy
+(1931, William A. Wellman) (James Cagney, Jean Harlow, Edward Woods, Joan Blondell)
+222. Airplane!
+(1980, Jerry Zucker, Jim Abrahams, and David Zucker) (Robert Hays, Julie Hagerty, Leslie Nielsen)
+223. Se7en
+(1995, David Fincher) (Brad Pitt, Morgan Freeman)
+224. Brokeback Mountain
+(2005, Ang Lee) (Heath Ledger, Jake Gyllenhaal, Michelle Williams)
+225. Lord of the Rings: The Two Towers
+(2002, Peter Jackson) (Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Cate Blanchett)
+226. Andrei Rublev
+(1966, Andrei Tarkovsky) (Anatoly Solonitsyn, Ivan Lapikov, Nikolai Grinko)
+227. Yojimbo
+(1961, Akira Kurosawa) (Toshiro Mifune, Tatsuya Nakadai, Yoko Tsukasa)
+228. The Last Laugh
+(1924, F.W. Murnau)(Emil Jannings, Maly Delschaft, Max Hiller)
+229. Hiroshima mon amour
+(1959, Alain Resnais) (Emmanuelle Riva, Eiji Okada)
+230. The Usual Suspects
+(1995, Bryan Singer) (Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Benicio Del Toro)
+231. Finding Nemo
+(2003, Andrew Stanton) (voices - Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, Allison Janney, Brad Garrett)
+232. The Thing
+(1982, John Carpenter) (Kurt Russell, Wilford Brimley, Keith David)
+233. Manhattan
+(1979, Woody Allen) (Woody Allen, Diane Keaton, Michael Murphy, Mariel Hemingway)
+234. Boyhood
+(2014, Richard Linklater) (Ellar Coltrane, Patricia Arquette, Ethan Hawke)
+235. Mean Streets
+(1973, Martin Scorsese) (Harvey Keitel, Robert De Niro, David Proval, Amy Robinson, Richard Romanus)
+236. Carrie
+(1976, Brian De Palma) (Sissy Spacek, John Travolta, Piper Laurie)
+237. Akira
+(1988, Katsuhiro Otomo) (Mitsuo Iwata, Nozomu Sasaki, Mami Koyama)
+238. Gladiator
+(2000, Ridley Scott) (Russell Crowe, Joaquin Phoenix, Richard Harris, Oliver Reed, Connie Nielsen)
+239. Ran
+(1985, Akira Kurosawa) (Tatsuya Nakadai, Akira Terao)
+240. Once Upon a Time in America
+(1984, Sergio Leone) (Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams, Joe Pesci)
+241. Beauty and the Beast
+(1946, Jean Cocteau) (Jean Marais, Josette Day, Marcel André)
+242. Meet Me in St. Louis
+(1944, Vincente Minnelli) (Judy Garland, Margaret O'Brien, Mary Astor)
+243. Beauty and the Beast
+(1991, Gary Trousdale & Kirk Wise) (voices - Robby Benson, Paige O'Hara, Angela Lansbury, Jesse Corti)
+244. To Be or Not to Be
+(1942, Ernst Lubitsch) (Carole Lombard, Jack Benny, Robert Stack)
+245. Our Hospitality
+(1923, Buster Keaton & John G. Blystone) (Buster Keayon, Joe Roberts, Natalie Talmadge)
+246. Freaks
+(1932, Tod Browning) (Wallace Ford, Leila Hyams, Olga Baclanova, Roscoe Ates)
+247. Memento
+(2000, Christopher Nolan) (Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Stephen Tobolowsky)
+248. The Manchurian Candidate
+(1962, John Frankenheimer) (Frank Sinatra, Laurence Harvey, Janet Leigh)
+249. Nashville
+(1975, Robert Altman) (Keith Carradine, Ronee Blakley, Lily Tomlin, Karen Black, Henry Gibson, Shelley Duvall)
+250. The Ten Commandments
+(1956, Cecil B. DeMille) (Charlton Heston, Yul Brynner, Anne Baxter, Edward G. Robinson, Yvonne De Carlo)
+251. Das Boot
+(1981, Wolfgang Petersen) (Jurgen Prochnow, Herbert Gronemeyer)
+252. Contempt
+(1963, Jean-Luc Godard) (Brigitte Bardot, Jack Palance, Michel Piccoli)
+253. A Woman Under Influence
+(1974, John Cassavetes) (Gena Rowlands, Peter Falk, Fred Draper, Matthew Labyorteaux)
+254. Dog Day Afternoon
+(1975, Sidney Lumet) (Al Pacino, John Cazale, James Broderick)
+255. Oldboy
+(2003, Chan-wook Park) (Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok)
+256. Cool Hand Luke
+(1967, Stuart Rosenberg) (Paul Newman, George Kennedy, Strother Martin, J.D. Cannon, Jo Van Fleet)
+257. The Thin Man
+(1934, W.S. Van Dyke) (William Powell, Myrna Loy, Maureen O'Sullivan)
+258. This Is Spinal Tap
+(1984, Rob Reiner) (Christopher Guest, Michael McKean, Harry Shearer)
+259. Shane
+(1953, George Stevens) (Alan Ladd, Jean Arthur, Van Heflin, Brandon deWilde, Jack Palance)
+260. Laura
+(1944, Otto Preminger) (Gene Tierney, Dana Andrews, Clifton Webb)
+261. Les diaboliques
+(1955, Henri-Georges Clouzot) (Simone Signoret, Véra Clouzot, Paul Meurisse)
+262. Days of Heaven
+(1978, Terrence Malick) (Richard Gere, Brooke Adams, Sam Shepard)
+263. All the President's Men
+(1976, Alan J. Pakula) (Robert Redford, Dustin Hoffman, Jason Robards)
+264. Dr. Mabuse the Gambler Part 1: The Great Gambler
+(1922, Fritz Lang) (Rudolf Klein-Rogge, Aud Egede-Nissen, Gertrude Welcker)
+265. Repulsion
+(1965, Roman Polanski) (Catherine Deneuve, Ian Hendry, John Fraser)
+266. Doctor Zhivago
+(1965, David Lean) (Omar Sharif, Julie Christie, Geraldine Chaplin)
+267. Gravity
+(2013, Alfonso Cuarón) (Sandra Bullock, George Clooney, Ed Harris)
+268. Inglourious Basterds
+(2009, Quentin Tarantino) (Brad Pitt, Christoph Waltz, Diane Kruger, Michael Fassbender)
+269. In the Mood for Love
+(2000, Wong Kar-Wai) (Maggie Cheung, Tony Leung Chiu Wai)
+270. The Conformist
+(1970, Bernardo Bertolucci) (Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin)
+271. Raise the Red Lantern
+(1991, Zhang Yimou) (Gong Li, Jingwu Ma, Saifei He, Cuifen Cao)
+272. Jules and Jim
+(1962, François Truffaut) (Jeanne Moreau, Oskar Werner, Henri Serre)
+273. Make Way for Tomorrow
+(1937, Leo McCarey) (Victor Moore, Beulah Bondi, Fay Bainter, Thomas Mitchell)
+274. The Man Who Shot Liberty Valance
+(1962, John Ford) (John Wayne, James Stewart, Lee Marvin)
+275. Häxan
+(1922, Benjamin Christensen) (Benjamin Christensen, Clara Pontoppidan, Oscar Stribolt)
+276. My Darling Clementine
+(1946, John Ford) (Henry Fonda, Victor Mature, Linda Darnell)
+277. Top Hat
+(1935, Mark Sandrich) (Fred Astaire, Ginger Rogers, Edward Everett Horton)
+278. Mad Max 2: The Road Warrior
+(1981, George Miller) (Mel Gibson, Syd Heylen)
+279. A Man Escaped
+(1956, Robert Bresson) (François Leterrier, Charles Le Clainche, Maurice Beerblock)
+280. The Phantom Carriage
+(1921, Victor Sjöström) (Victor Sjöström, Hilda Borgström, Tore Svennberg)
+281. Last Year at Marienbad
+(1961, Alain Resnais) (Delphine Seyrig, Giorgio Albertazzi, Sacha Pitoëff)
+282. The Last Picture Show
+(1971, Peter Bogdanovich) (Timothy Bottoms, Jeff Bridges, Ellen Burstyn)
+283. The Blue Angel
+(1930, Josef von Sternberg) (Marlene Dietrich, Emil Jannings, Kurt Gerron)
+284. A Matter of Life and Death
+(1946, Michael Powell & Emeric Pressburger) (David Niven, Roger Livesey, Raymond Massey)
+285. The Big Sleep
+(1946, Howard Hawks) (Humphrey Bogart, Lauren Bacall, Martha Vickers, Dorothy Malone)
+286. The Elephant Man
+(1980, David Lynch) (Anthony Hopkins, John Hurt, Anne Bancroft)
+287. L.A. Confidential
+(1997, Curtis Hanson) (Russell Crowe, Kevin Spacey, Guy Pearce, Kim Basinger, James Cromwell)
+288. Boyz n the Hood
+(1991, John Singleton) (Ice Cube, Cuba Gooding Jr., Laurence Fishburne, Angela Bassett, Lloyd Avery II)
+289. Anatomy of a Murder
+(1959, Otto Preminger) (James Stewart, Lee Remick, Ben Gazzara, George C. Scott)
+290. Sansho the Bailiff
+(1954, Kenji Mizoguchi) (Kinuyo Tanaka, Yoshiaki Hanayagi, Kyoko Kagawa)
+291. The Sting
+(1973, George Roy Hill) (Paul Newman, Robert Redford, Robert Shaw, Charles Durning, Ray Walston, Eileen Brennan)
+292. Viridiana
+(1961, Luis Buñuel) (Silvia Pinal, Francisco Rabal, Fernando Rey)
+293. Brazil
+(1985, Terry Gilliam) (Jonathan Pryce, Robert De Niro, Kim Greist)
+294. The Truman Show
+(1998, Peter Weir) (Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich)
+295. Heat
+(1995, Michael Mann) (Al Pacino, Robert De Niro, Jon Voight, Val Kilmer, Ashley Judd)
+296. Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
+(1975, Chantal Akerman) (Delphine Seyrig, Jan Decorte, Henri Storck)
+297. Young Frankenstein
+(1974, Mel Brooks) (Gene Wilder, Peter Boyle, Madeline Kahn, Marty Feldman, Teri Garr, Cloris Leachman)
+298. Moonlight
+(2016, Barry Jenkins) (Trevante Rhodes, André Holland, Janelle Monáe)
+299. A Separation
+(2011, Asghar Farhadi) (Leila Hatami, Payman Maadi, Sareh Bayat, Shahab Hosseini)
+300. Wings
+(1927, William A. Wellman) (Clara Bow, Charles "Buddy" Rogers, Richard Arlen, Gary Cooper)
+301. Red River
+(1948, Howard Hawks) (John Wayne, Montgomery Clift, Walter Brennan, Joanne Dru, Noah Beery Jr.)
+302. Spartacus
+(1960, Stanley Kubrick) (Kirk Douglas, Laurence Olivier, Jean Simmons, Peter Ustinov, Charles Laughton)
+303. The Conversation
+(1974, Francis Ford Coppola) (Gene Hackman, John Cazale, Allen Garfield)
+304. From Here to Eternity
+(1953, Fred Zinnemann) (Burt Lancaster, Montgomery Clift, Deborah Kerr, Donna Reed, Frank Sinatra)
+305. Who Framed Roger Rabbit
+(1988, Robert Zemeckis) (Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Stubby Kaye)
+306. Groundhog Day
+(1993, Harold Ramis) (Bill Murrey, Andie McDowell, Chris Elliott, Brian Doyle-Murray)
+307. The Invisible Man
+(1933, James Whale) (Gloria Stuart, Claude Rains, William Harrigan)
+308. Patton
+(1970, Franklin J. Schaffner) (George C. Scott, Karl Malden, Stephen Young, Michael Strong)
+309. Planet of the Apes
+(1968, Franklin J. Schaffner) (Charlton Heston, Roddy McDowall, Kim Hunter)
+310. L'Atalante
+(1934, Jean Vigo) (Michel Simon, Dita Parlo, Jean Dasté)
+311. Cat on a Hot Tin Roof
+(1958, Richard Brooks) (Elizabeth Taylor, Paul Newman, Burl Ives)
+312. Shoah
+(1985, Claude Lanzmann) (Documentary)
+313. Cinema Paradiso
+(1988, Giuseppe Tornatore) (Philippe Noiret, Salvatore Cascio)
+314. Kind Hearts and Coronets
+(1949, Robert Hamer) (Dennis Price, Alec Guinness, Valerie Hobson, Joan Greenwood)
+315. Three Colours: Red
+(1994, Krzysztof Kieslowski) (Irene Jacob, Jean-Louis Trintignant)
+316. Le Samouraï
+(1967, Jean-Pierre Melville) (Alain Delon, Francois Perier, Nathalie Delon)
+317. Trouble in Paradise
+(1932, Ernst Lubitsch) (Miriam Hopkins, Kay Francis, Herbert Marshall)
+318. The Phantom of the Opera
+(1925, Rupert Julian) (Lon Chaney, Norman Kerry, Mary Philbin)
+319. Last Tango in Paris
+(1972, Bernardo Bertolucci) (Marlon Brando, Maria Schneider, Jean-Pierre Léaud)
+320. The African Queen
+(1951,John Huston) (Humphrey Bogart, Katharine Hepburn, Robert Morley, Peter Bull)
+321. The Great Train Robbery
+(1903, Edwin S. Porter) (Justus D. Barnes, G.M. Anderson, Walter Cameron)
+322. Toy Story 3
+(2010, Lee Unkrich) (voices - Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty, Michael Keaton, Don Rickles)
+323. Up
+(2009, Pete Docter) (voices - Edward Asner, Christopher Plummer, Jordan Nagai, John Ratzenberger)
+324. Platoon
+(1986, Oliver Stone) (Tom Berenger, Willem Dafoe, Charlie Sheen, Forest Whitaker, Keith David)
+325. The Sixth Sense
+(1999, M. Night Shyamalan) (Bruce Willis, Harvey Joel Osment, Toni Collette, Olivia Williams)
+326. Au hasard Balthazar
+(1966, Robert Bresson) (Anne Wiazemsky, Walter Green, Francois Lafarge)
+327. The Lives of Others
+(2006, Florian Henckel von Donnersmarck) (Martina Gedeck, Ulrich Mühe)
+328. The Pianist
+(2002, Roman Polanski) (Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox)
+329. Life Is Beautiful
+(1997, Roberto Benigni) (Roberto Benigni, Nicoletta Braschi)
+330. Strangers on a Train
+(1951, Alfred Hitchcock) (Farley Granger, Ruth Roman, Robert Walker)
+331. Wings of Desire
+(1987, Wim Wenders) (Bruno Ganz, Solveig Dommartin, Otto Sander)
+332. Full Metal Jacket
+(1987, Stanley Kubrick) (R. Lee Ermey, Matthew Modine, Adam Baldwin)
+333. Z
+(1969, Costa-Gavras) (Jean-Louis Trintignant, Yves Montand, Irene Papas)
+334. Black Narcissus
+(1947, Michael Powell & Emeric Pressburger) (Deborah Kerr, Kathleen Byron, Sabu, David Farrar)
+335. Fanny and Alexander
+(1982, Ingmar Bergman) (Pernilla Allwin, Bertil Guve, Kristina Adolphson)
+336. White Heat
+(1949, Raoul Walsh) (James Cagney, Virginia Mayo, Edmond O'Brien)
+337. Late Spring
+(1949, Yasujirô Ozu) (Chishu Ryu, Setsuko Hara, Haruko Sugimura)
+338. Paris, Texas
+(1984, Wim Wenders) (Harry Dean Stanton, Dean Stockwell, Nastassja Kinski)
+339. Sweet Smell of Success
+(1957, Alexander Mackendrick) (Burt Lancaster, Tony Curtis, Susan Harrison)
+340. Monty Python's Life of Brian
+(1979, Terry Jones) (Kenneth Colley, Graham Chapman, John Cleese, Michael Palin, Eric Idle, Terry Gilliam)
+341. Imitation of Life
+(1959, Douglas Sirk) (Lana Turner, Juanita Moore, John Gavin)
+342. Solaris
+(1972, Andrei Tarkovsky) (Donatas Banionis, Natalya Bondarchuk, Jüri Järvet)
+343. L'Âge d'or
+(1930, Luis Buñuel) (Gaston Modot, Lya Lys, Caridad de Laberdesque)
+344. Ninotchka
+(1939, Ernst Lubitsch) (Greta Garbo, Melvyn Douglas, Ina Claire)
+345. Badlands
+(1973, Terrence Malick) (Martin Sheen, Sissy Spacek, Warren Oates, Ramon Bieri)
+346. The Four Horsemen of the Apocalypse
+(1921, Rex Ingram) (Pomeroy Cannon, Josef Swickard, Bridgetta Clark, Rudolf Valentino)
+347. I Am a Fugitive from a Chain Gang
+(1932, Mervyn LeRoy) (Paul Muni, Glenda Farrell, Helen Vinson, Noel Francis)
+348. Love Me Tonight
+(1932, Rouben Mamoulian) (Maurice Chevalier, Jeanette MacDonald, Charles Ruggles)
+349. Edward Scissorhands
+(1990, Tim Burton) (Johnny Depp, Winona Ryder, Dianne Wiest, Vincent Price, Alan Arkin)
+350. Aladdin
+(1992, Ron Clements & John Musker) (voices - Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman)
+351. My Fair Lady
+(1964, George Cukor) (Audrey Hepburn, Rex Harrison, Stanley Holloway)
+352. Cabiria
+(1914, Giovanni Pastrone) (Lidia Quaranta, Dante Testa, Bartolomeo Pagano)
+353. The Life and Death of Colonel Blimp
+(1943, Michael Powell & Emeric Pressburger) (Roger Livesey, Anton Walbrook, Deborah Kerr)
+354. Bambi
+(1942, David Hand et al.) (voices - Hardie Albright, Stan Alexander, Peter Behn, Thelma Boardman)
+355. 42nd Street
+(1933, Lloyd Bacon) (Warner Baxter, Bebe Daniels, George Brent, Ruby Keeler)
+356. Million Dollar Baby
+(2004, Clint Eastwood) (Clint Eastwood, Hilary Swank)
+357. Stranger than Paradise
+(1984, Jim Jarmusch) (John Lurie, Eszter Balint, Richard Edson)
+358. Amélie
+(2001, Jean-Pierre Jeunet) (Audrey Tautou, Mathieu Kassovitz, Rufus)
+359. Pandora's Box
+(1929, G.W. Pabst) (Louise Brooks, Fritz Kortner, Francis Lederer)
+360. Los olvidados
+(1950, Luis Buñuel) (Alfonso Mejía, Stella Inda, Miguel Inclán, Roberto Cobo)
+361. Inside Out
+(2015, Pete Docter & Ronnie del Carmen) (Amy Poehler, Phyllis Smith, Richard Kind)
+362. La La Land
+(2016, Damien Chazelle) (Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons)
+363. Kramer vs. Kramer
+(1979, Robert Benton) (Dustin Hoffman, Meryl Streep, Justin Henry)
+364. From Russia with Love
+(1963, Terence Young) (Sean Connery, Pedro Armendáriz, Lotte Lenya)
+365. The Hustler
+(1961, Robert Rossen) (Paul Newman, Jackie Gleason, Piper Laurie)
+366. The Quiet Man
+(1952, John Ford) (John Wayne, Maureen O'Hara, Barry Fitzgerald)
+367. The 39 Steps
+(1935, Alfred Hitchcock) (Robert Donat, Madeleine Carroll, Lucie Mannheim, Godfrey Tearle)
+368. A Night at the Opera
+(1935, Sam Wood) (The Marx Brothers, Kitty Carlisle, Allan Jones)
+369. The Thief of Bagdad
+(1940, Michael Powell, Ludwig Berger & Tim Whelan)(Conrad Veidt, Sabu, John Justin)
+370. Ben-Hur: A Tale of the Christ
+(1925, Fred Niblo) (Ramon Novarro, May McAvoy, Betty Bronson)
+371. Dances with Wolves
+(1990, Kevin Costner) (Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant)
+372. The Princess Bride
+(1987, Rob Reiner) (Cary Elwes, Robin Wright, Mandy Patinkin)
+373. The Breakfast Club
+(1985, John Hughes) (Emilio Estevez, Judd Nelson, Molly Ringwald, Ally Sheedy, Anthony Michael Hall)
+374. National Lampoon's Animal House
+(1978, John Landis) (John Belushi, Tim Matheson, Karen Allen, Mark Metcalf, Kevin Bacon)
+375. 12 Years a Slave
+(2013, Steve McQueen) (Chiwetel Ejiofor, Michael Fassbender, Michael Kenneth Williams, Brad Pitt)
+376. The Thief of Bagdad
+(1924, Raoul Walsh) (Douglas Fairbanks, Snitz Edwards, Charles Belcher, Anna May Wong)
+377. L'Arroseur Arrosé (aka: The Waterer Watered)
+(1895, Louis Lumière) (François Clerc, Benoît Duval)
+378. Saturday Night Fever
+(1977, John Badham) (John Travolta, Karen Gorney, Joseph Cali, Donna Pescow, Barry Miller)
+379. Grave of the Fireflies
+(1988, Isao Takahata) (Tsutomu Tatsumi, Ayano Shiraishi)
+380. The Ox-Bow Incident
+(1942, William A. Wellman) (Henry Fonda, Dana Andrews, Mary Beth Hughes)
+381. Close-Up
+(1990, Abbas Kiarostami) (Hossain Sabzian, Mohsen Makhmalbaf, Abolfazl Ahankhah)
+382. Breaking the Waves
+(1996, Lars von Trier) (Emily Watson, Stellan Skarsgard, Katrin Cartlidge)
+383. Lost in Translation
+(2003, Sofia Coppola) (Bill Murray, Scarlett Johnansson, Anna Faris, Giovanni Ribisi)
+384. Boogie Nights
+(1997, Paul Thomas Anderson) (Mark Wahlberg, Juluanne Moore, Burt Reynolds, John C. Reilly)
+385. Elevator to the Gallows
+(1958, Louis Malle) (Jeanne Moreau, Maurice Ronet, Georges Poujouly)
+386. The Umbrellas of Cherbourg
+(1964, Jacques Demy) (Catherine Deneuve, Anne Vernon, Nino Castelnuovo)
+387. Princess Mononoke
+(1997, Hayao Miyazaki) (Yoji Matsuda, Yuriko Ishida)
+388. The Lost Weekend
+(1945, Billy Wilder) (Ray Milland, Jane Wyman, Howard Da Silva, Phillip Terry)
+389. Cat People
+(1942, Jacques Tourneur) (Simone Simon, Kent Smith, Tom Conway)
+390. The Incredibles
+(2004, Brad Bird) (voices - Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee, Wallace Shawn)
+391. The Great Escape
+(1963, John Sturges) (Steve McQueen, James Garner, Richard Attenborough)
+392. Bullitt
+(1968, Peter Yates) (Steve McQueen, Robert Vaughn, Jacqueline Bisset, Robert Duvall, Norman Fell)
+393. An American in Paris
+(1951, Vincente Minnelli) (Gene Kelly, Leslie Caron, Oscar Levant)
+394. The Day the Earth Stood Still
+(1951, Robert Wise) (Michael Rennie, Patricia Neal, Hugh Marlowe)
+395. Dr. Mabuse the Gambler Part 2: Inferno
+(1922, Fritz Lang) (Rudolf Klein-Rogge, Alfred Abel, Bernhard Goetzke)
+396. The Rocky Horror Picture Show
+(1975, Jim Sharman) (Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien)
+397. The Mirror
+(1975, Andrei Tarkovsky) (Filipp Yankovsky, Ignat Daniltsev, Margarita Terekhova)
+398. My Man Godfrey
+(1936, Gregory La Cava) (William Powell, Carole Lombard, Alice Brady)
+399. Pierrot le Fou
+(1965, Jean-Luc Godard) (Jean-Paul Belmondo, Anna Karina, Graziella Galvani)
+400. The Jungle Book
+(1967, Wolfgang Reitherman) (voices - Phil Harris, Sebastian Cabot, Louis Prima, George Sanders, Sterling Holloway)
+401. Gertie the Dinosaur
+(1914, Winsor McCay)
+402. The Circus
+(1928, Charles Chaplin) (Charles Chaplin, Al Ernest Garcia, Merna Kennedy, Henry Bergman)
+403. Mildred Pierce
+(1945, Michael Curtiz) (Joan Crawford, Jack Carson, Zachary Scott)
+404. Amarcord
+(1973, Federico Fellini) (Bruno Zanin, Magali Noël, Pupella Maggio)
+405. Dracula
+(1958, Terence Fisher) (Peter Cushing, Christopher Lee, Michael Gough)
+406. Throne of Blood
+(1957, Akira Kurosawa) (Toshiro Mifune, Isuzu Yamada, Takashi Shimura)
+407. Don't Look Now
+(1973, Nicolas Roeg) (Julie Christie, Donald Sutherland)
+408. The Big Lebowski
+(1998, Joel & Ethan Coen) (Jeff Bridges, John Goodman)
+409. Come and See
+(1985, Elem Klimov) (Aleksey Kravchenko, Olga Mironova)
+410. Rope
+(1948, Alfred Hitchcock) (James Stewart, John Dall, Farley Granger)
+411. Mutiny on the Bounty
+(1935, Frank Lloyd) (Charles Laughton, Clark Gable, Franchot Tone)
+412. The Magnificent Ambersons
+(1942, Orson Welles) (Joseph Cotten, Dolores Costello, Anne Baxter, Tim Holt, Agnes Moorehead)
+413. Gandhi
+(1982, Richard Attenborough) (Ben Kingsley, Rohini Hattangadi, Roshan Seth)
+414. Three Colours: Blue
+(1993, Krzysztof Kieslowski) (Juliette Binoche, Benoit Régent)
+415. Chimes at Midnight
+(1965, Orson Welles) (Orson Welles, Keith Baxter, John Gielgud)
+416. Nights of Cabiria
+(1957, Federico Fellini) (Giulietta Masina, François Périer, Franca Marzi)
+417. The Producers
+(1967, Mel Brooks) (Zero Mostel, Gene Wilder, Dick Shawn)
+418. The Leopard
+(1963, Luchino Visconti) (Burt Lancaster, Claudia Cardinale, Alain Delon)
+419. Spider-Man: Into the Spider-Verse
+(2018, Bob Persichetti, Peter Ramsey, Rodney Rothman) (Shameik Moore, Jake Johnson, Hailee Steinfeld)
+420. The Departed
+(2006, Martin Scorsese) (Leonardo DiCaprio, Matt Damon)
+421. The Tree of Life
+(2011, Terrence Malick) (Brad Pitt, Sean Penn, Jessica Chastain)
+422. Caché
+(2005, Michael Haneke) (Daniel Auteuil, Juliette Binoche, Maurice Bénichou)
+423. Talk to Her
+(2002, Pedro Almodóvar) (Rosario Flores, Javier Cámara, Darío Grandinetti)
+424. The Piano
+(1993, Jane Campion) (Holly Hunter, Anna Paquin)
+425. Rififi
+(1955, Jules Dassin) (Jean Servais, Carl Möhner, Robert Manuel)
+426. The Shop Around the Corner
+(1940, Ernst Lubitsch) (Margaret Sullavan, James Stewart, Frank Morgan)
+427. The Lady Eve
+(1941, Preston Sturges) (Barbara Stanwyck, Henry Fonda, Charles Coburn)
+428. Broken Blossoms
+(1919, D. W. Griffith) (Lillian Gish, Richard Barthelmess, Donald Crisp)
+429. Grease
+(1978, Randal Kleiser) (John Travolta, Olivia Newton-John)
+430. Tootsie
+(1982, Sydney Pollack) (Dustin Hoffman, Jessica Lange, Teri Garr)
+431. The Evil Dead
+(1981, Sam Raimi) (Bruce Campbell, Ellen Sandweiss, Richard DeManincor)
+432. Peeping Tom
+(1960, Michael Powell) (Carl Boehm, Moira Shearer, Anna Massey)
+433. Tillie's Punctured Romance
+(1914, Mack Sennett) (Marie Dressler, Mabel Normand, Charles Chaplin, The Keystone Cops)
+434. Night and Fog
+(1956, Alain Resnais) (Documentary)
+435. Dr. Jekyll and Mr. Hyde
+(1931, Rouben Mamoulian) (Fredric March, Miriam Hopkins, Rose Hobart)
+436. East of Eden
+(1955, Elia Kazan) (Julie Harris, James Dean, Raymond Massey)
+437. Forbidden Planet
+(1956, Fred M. Wilcox) (Walter Pidgeon, Anne Francis, Leslie Nielsen)
+438. Stand by Me
+(1986, Rob Reiner) (Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell, Kiefer Sutherland)
+439. Amour
+(2012, Michael Haneke) (Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert)
+440. Birdman or (The Unexpected Virtue of Ignorance)
+(2014, Alejandro González Iñárritu) (Michael Keaton, Zach Galifianakis, Edward Norton)
+441. Mr. Deeds Goes to Town
+(1936, Frank Capra) (Gary Cooper, Jean Arthur, George Bancroft)
+442. McCabe & Mrs. Miller
+(1971, Robert Altman) (Warren Beatty, Julie Christie)
+443. The Awful Truth
+(1937, Leo McCarey) (Irene Dunne, Cary Grant, Ralph Bellamy)
+444. The Discreet Charm of the Bourgeoisie
+(1972, Luis Buñuel) (Fernando Rey, Paul Frankeur, Delphine Seyrig)
+445. Cries and Whispers
+(1972, Ingmar Bergman) (Harriet Andersson, Kari Sylwan, Ingrid Thulin, Liv Ullmann)
+446. Roma
+(2018, Alfonso Cuarón) (Yalitza Aparicio, Marina de Tavira, Jorge Antonio Guerrero)
+447. The Cameraman
+(1928, Buster Keaton & Edward Sedgwick) (Buster Keaton, Marceline Day)
+448. Dune
+(2021, Denis Villeneuve) (Timothée Chalamet, Rebecca Ferguson, Oscar Isaac)
+449. The Hurt Locker
+(2009, Kathryn Bigelow) (Jeremy Renner, Anthony Mackie)
+450. Magnolia
+(1999, Paul Thomas Anderson) (Jeremy Blackman, Tom Cruise, Philip Seymour Hoffman)
+451. Mad Max
+(1979, George Miller) (Mel Gibson, Joanne Samuel, Hugh Keays-Byrne)
+452. Letter from an Unknown Woman
+(1948, Max Ophüls) (Joan Fontaine, Louis Jourdan)
+453. In a Lonely Place
+(1950, Nicholas Ray) (Humphrey Bogart, Gloria Grahame)
+454. Eraserhead
+(1977, David Lynch) (Jack Nance, Charlotte Stewart)
+455. Belle de Jour
+(1967, Luis Buñuel) (Catherine Deneuve, Jean Sorel, Michel Piccoli)
+456. Kiss Me Deadly
+(1955, Robert Aldrich) (Ralph Meeker, Albert Dekker, Paul Stewart)
+457. Suspiria
+(1977, Dario Argento) (Jessica Harper, Stefania Casini, Flavio Bucci)
+458. Ordet
+(1955, Carl Theodor Dreyer) (Henrik Malberg, Emil Hass Christensen, Birgitte Federspiel)
+459. Playtime
+(1967, Jacques Tati) (Jacques Tati, Barbara Dennek, Jacqueline Lecomte)
+460. Pickpocket
+(1959, Robert Bresson) (Martin LaSalle, Marika Green, Jean Pélégri)
+461. Ivan the Terrible, Part l
+(1944, Sergei M. Eisenstein) (Nikolai Cherkasov, Lyudmila Tselikovskaya, Serafima Birman)
+462. Shadow of a Doubt
+(1943, Alfred Hitchcock) (Teresa Wright, Joseph Cotten, Macdonald Carey)
+463. Harold and Maude
+(1971, Hal Ashby) (Ruth Gordon, Bud Cort)
+464. Dead Poets Society
+(1989, Peter Weir) (Robin Williams, Robert Sean Leonard, Ethan Hawke)
+465. The Thin Red Line
+(1998, Terrence Malick) (James Caviezel, Sean Penn, Nick Nolte)
+466. Ali: Fear Eats the Soul
+(1974, Rainer Werner Fassbinder) (Brigitte Mira, El Hedi ben Salem)
+467. All About My Mother
+(1999, Pedro Almodóvar) (Cecilia Roth, Marisa Paredes, Candela Pena)
+468. To Have and Have Not
+(1944, Howard Hawks) (Humphrey Bogart, Walter Brennan, Lauren Bacall)
+469. How Green Was My Valley
+(1941, John Ford) (Walter Pidgeon, Maureen O'Hara, Donald Crisp, Anna Lee, Roddy McDowall)
+470. The Impossible Voyage
+(1904, Georges Méliès) (Georges Méliès, Fernande Albany, Jehanne d'Alcy)
+471. When Harry Met Sally...
+(1989, Rob Reiner) (Billy Crystal, Meg Ryan)
+472. Meshes of the Afternoon
+(1943, Maya Deren & Alexander Hammid) (Maya Deren, Alexander Hammid)
+473. Requiem for a Dream
+(2000, Darren Aronofsky) (Ellen Burstyn, Jared Leto, Jennifer Connelly)
+474. Everything Everywhere All at Once
+(2022, Daniel Kwan & Daniel Scheinert) (Michelle Yeoh, Stephanie Hsu, Ke Huy Quan)
+475. Ferris Bueller's Day Off
+(1986, John Hughes) (Matthew Broderick, Alan Ruck)
+476. Blazing Saddles
+(1974, Mel Brooks) (Cleavon Little, Gene Wilder, Madeline Kahn)
+477. Sullivan's Travels
+(1941, Preston Sturges) (Joel McCrea, Veronica Lake)
+478. The Grand Budapest Hotel
+(2014, Wes Anderson) (Ralph Fiennes, Tony Revolori, Adrien Brody)
+479. Roundhay Garden Scene
+(1888, Louis Le Prince) (Annie Hartley, Adolphe Le Prince, Joseph Whitley, Sarah Whitley)
+480. Little Caesar
+(1931, Mervyn LeRoy) (Edward G. Robinson, Douglas Fairbanks Jr., Glenda Farrell)
+481. Django Unchained
+(2012, Quentin Tarantin) (Jamie Foxx, Christoph Waltz, Leonardo DiCaprio)
+482. RoboCop
+(1987, Paul Verhoeven) (Peter Weller, Nancy Allen, Kurtwood Smith)
+483. Nausicaä of the Valley of the Wind
+(1984, Hayao Miyazaki) (Sumi Shimamoto, Goro Naya)
+484. A Star Is Born
+(1954, George Cukor) (Judy Garland, James Mason, Jack Carson)
+485. Mr. Hulot's Holiday
+(1953, Jacques Tati) (Jacques Tati, Nathalie Pascaud, Micheline Rolla)
+486. Being John Malkovich
+(1999, Spike Jonze) (John Cusack, John Malkovich)
+487. Slumdog Millionaire
+(2008, Danny Boyle) (Dev Patel, Anil Kapoor)
+488. Braveheart
+(1995, Mel Gibson) (Mel Gibson, Sophie Marceau, Patrick McGoohan)
+489. Amores Perros
+(2000, Alejandro González Iñárritu) (Emilio Echavarrio, Gael Garcia Bernal)
+490. A Nightmare on Elm Street
+(1984, Wes Craven) (Heather Langenkamp, John Saxon, Robert Englund)
+491. Killer of the Sheep
+(1978, Charles Burnett) (Henry G. Sanders, Kaycee Moore, Angela Burnett)
+492. Ratatouille
+(2007, Brad Bird) (Patton Oswalt, Ian Holm, Lou Romano)
+493. Johnny Guitar
+(1954, Nicholas Ray) (Joan Crawford, Sterling Hayden, Mercedes McCambridge)
+494. 20,000 Leagues Under the Sea
+(1954, Richard Fleischer) (Kirk Douglas, James Mason, Paul Lukas, Peter Lorre)
+495. Alexander Nevsky
+(1938, Sergei M. Eisenstein & Dmitriy Vasilyev) (Nikolay Cherkasov, Nikolay Okhlopkov, Andrei Abrikosov)
+496. Triumph of the Will
+(1935, Leni Riefenstahl) (Documentary)
+497. On the Town
+(1949, Stanley Donen & Gene Kelly) (Gene Kelly, Frank Sinatra, Betty Garrett, Ann Miller)
+498. The Spirit of the Beehive
+(1973, Víctor Erice) (Fernando Fernán Gómez, Teresa Gimpera, Ana Torrent)
+499. Rain Man
+(1988, Barry Levinson) (Dustin Hoffman, Tom Cruise, Valeria Golino)
+500. Ashes and Diamonds
